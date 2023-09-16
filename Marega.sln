@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{911E0F3E-980D-44C8-A20D-E2B6DD19CD8A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Marega", "Marega\Marega.vcxproj", "{F6DA70F0-673C-44F2-B6FC-B9C08490F3C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6DA70F0-673C-44F2-B6FC-B9C08490F3C4}.Debug|x64.ActiveCfg = Debug|x64
+		{F6DA70F0-673C-44F2-B6FC-B9C08490F3C4}.Debug|x64.Build.0 = Debug|x64
+		{F6DA70F0-673C-44F2-B6FC-B9C08490F3C4}.Release|x64.ActiveCfg = Release|x64
+		{F6DA70F0-673C-44F2-B6FC-B9C08490F3C4}.Release|x64.Build.0 = Release|x64
+		{911E0F3E-980D-44C8-A20D-E2B6DD19CD8A}.Debug|x64.ActiveCfg = Debug|x64
+		{911E0F3E-980D-44C8-A20D-E2B6DD19CD8A}.Debug|x64.Build.0 = Debug|x64
+		{911E0F3E-980D-44C8-A20D-E2B6DD19CD8A}.Release|x64.ActiveCfg = Release|x64
+		{911E0F3E-980D-44C8-A20D-E2B6DD19CD8A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA841585-42F1-4F70-8B67-DD934E41361D}
+	EndGlobalSection
+EndGlobal
